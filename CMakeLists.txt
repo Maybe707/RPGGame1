@@ -10,3 +10,5 @@ include_directories(src)
 include_directories(lib/SFML-2.5.1-sources/SFML-2.5.1/include)
 add_subdirectory(lib/SFML-2.5.1-sources/SFML-2.5.1)
 target_link_libraries(RPGGame sfml-graphics)
+
+include some library
